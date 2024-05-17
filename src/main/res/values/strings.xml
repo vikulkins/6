@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PR_6</string>
+    <string name="gotovo">Готово</string>
+    <string name="activity_main_edit_text_hint">Впишите ФИО</string>
+    <string name="fioStudent">ФИО студента:</string>
+    <string name="stop">Остановить</string>
+</resources>
